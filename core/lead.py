@@ -9,4 +9,8 @@ def create_lead():
 
 # Update Lead.
 def update_lead():
-  print "Lead updated successfully"  
+  print "Lead updated successfully"
+
+# Delete Lead.
+def delete_lead():
+  print "Lead deleted successfully."    
